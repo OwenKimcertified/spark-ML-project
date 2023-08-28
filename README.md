@@ -1,2 +1,1 @@
-<img src = 'https://drive.google.com/uc?id=1SOplKkXbewpArTwB0YFMMQzI6PfufJ5T' width = 550 height = 800>
-
+<img src = 'https://drive.google.com/uc?id=1Wl_jhwWstfutCdY8_TJCZJO3IUzO4kp' width = 550 height = 800>
