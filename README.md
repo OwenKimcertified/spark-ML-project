@@ -1,6 +1,6 @@
 # 업데이트 중
 
-<img src = 'https://drive.google.com/uc?id=1TS96t88hQhvmoCO2wUyb5loyaM9SLLPu' width = 900 height = 600>
+<img src = 'https://drive.google.com/uc?id=1TS96t88hQhvmoCO2wUyb5loyaM9SLLPu' width = 900 height = 800>
 
 
 # spark - ml 을 사용한 이유와 회고
