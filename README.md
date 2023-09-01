@@ -1,10 +1,10 @@
 # 업데이트 중
 
-# 데이터 분포, 품질, vif 측정. (스트리밍 처리) flink or kafka
+## 데이터 분포, 품질, vif 측정. (스트리밍 처리) flink or kafka
 
-# airflow 로 스케줄링
+## airflow 로 스케줄링
 
-# CI 기능 추가 (CD 보류)
+## CI 기능 추가 (CD 보류)
 
 
 <img src = 'https://drive.google.com/uc?id=1TS96t88hQhvmoCO2wUyb5loyaM9SLLPu' width = 900 height = 1000>
