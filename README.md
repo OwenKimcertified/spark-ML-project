@@ -6,7 +6,9 @@
 
 ## CI 기능 추가 (CD 보류)
 
-# 환경 ubuntu(linux), openjdk-V-11, hadoop, ,spark, docker - confluent/kafka-V-7.0.0
+### 환경 ubuntu(linux,) \n 
+### openjdk-V-11, hadoop, ,spark,\n
+### docker - confluent/kafka-V-7.0.0
 <img src = 'https://drive.google.com/uc?id=1TS96t88hQhvmoCO2wUyb5loyaM9SLLPu' width = 900 height = 1000>
 
 
