@@ -9,6 +9,7 @@
 ### 환경 ubuntu(linux,) \n 
 ### openjdk-V-11, hadoop, ,spark,\n
 ### docker - confluent/kafka-V-7.0.0
+![123](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/fed29e67-6b28-4eab-a726-4c642fe521d0)
 <img src = 'https://drive.google.com/uc?id=1TS96t88hQhvmoCO2wUyb5loyaM9SLLPu' width = 900 height = 1000>
 
 
