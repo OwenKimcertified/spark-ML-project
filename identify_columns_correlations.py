@@ -22,7 +22,7 @@ os.environ['SPARK_LOCAL_IP'] = local_ip
 MAX_MEMORY = '1g' 
 
 ss = SparkSession.builder.appName('spark-ml')\
-                          .config('spark.executer.memory', MAX_MEMORY)\
+                          .config('spark.executor.memory', MAX_MEMORY)\
                           .config('spark.driver.memory', MAX_MEMORY)\
                           .getOrCreate()
 
