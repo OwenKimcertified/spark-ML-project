@@ -99,11 +99,12 @@ def logging_kafka():
 try: 
     logging_kafka()
     print('DONE')
+  
 except Exception as e:
     log = f"error occur : {e}"
     f_log = log.encode('utf-8')
     producer.send(topicname, f_log)
-
+    producer.flush()
 
 # terminal status
 
