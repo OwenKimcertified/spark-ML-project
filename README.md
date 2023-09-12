@@ -4,6 +4,7 @@
 ### 환경 ubuntu(linux)
 ### openjdk-V-11, hadoop, spark
 ### docker - confluent/kafka-V-7.0.0, kafdrop
+### EDA 는 ad-hoc 쿼리로 진행
 ![123](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/fed29e67-6b28-4eab-a726-4c642fe521d0)
 
 
