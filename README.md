@@ -2,10 +2,6 @@
 
 ## 데이터 분포, 품질, vif 측정. (스트리밍 처리) flink or kafka
 
-## airflow 로 스케줄링
-
-## CI 기능 추가 (CD 보류)
-
 ### 환경 ubuntu(linux,) \n 
 ### openjdk-V-11, hadoop, ,spark,\n
 ### docker - confluent/kafka-V-7.0.0
