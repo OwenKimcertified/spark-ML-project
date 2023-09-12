@@ -1,10 +1,9 @@
 # 업데이트 중
 
-## 데이터 분포, 품질, vif 측정. (스트리밍 처리) flink or kafka
-
-### 환경 ubuntu(linux,) \n 
-### openjdk-V-11, hadoop, ,spark,\n
-### docker - confluent/kafka-V-7.0.0
+## 데이터 분포, 품질, vif 측정. (스트리밍 처리 kafka)
+### 환경 ubuntu(linux)
+### openjdk-V-11, hadoop, spark
+### docker - confluent/kafka-V-7.0.0, kafdrop
 ![123](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/fed29e67-6b28-4eab-a726-4c642fe521d0)
 
 
