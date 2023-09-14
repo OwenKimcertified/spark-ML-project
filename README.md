@@ -3,7 +3,7 @@
 ### openjdk-V-11, hadoop, spark
 ### docker - confluent/kafka-V-7.0.0, kafdrop
 ### EDA 는 ad-hoc 쿼리로 진행
-
+![스크린샷 2023-09-15 07-11-01](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/45b8d27a-9d37-45c3-bd89-84989433cadf)
 
 # spark - ml 을 사용한 이유와 회고
 
