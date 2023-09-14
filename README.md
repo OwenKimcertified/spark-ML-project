@@ -1,6 +1,6 @@
 # SPARK - ML 
 # FEATURE - TARGET Corelations
-
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/666d697a-8b02-454e-ad5f-50b7cd0e1965){: width="300" height="200"}
 
 # setting
 - ubuntu 22.04 LTS
