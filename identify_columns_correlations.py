@@ -32,6 +32,7 @@ ss = SparkSession.builder.appName('spark-ml')\
 ADDR = 'hdfs://127.0.0.1:9000/partition_csv/*'
 
 df = ss.read.csv(ADDR, header = True, inferSchema = True)
+df.cache()
 
 def convert_to_seconds(time_str):
     parts = time_str.split(":")
