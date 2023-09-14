@@ -1,4 +1,4 @@
-## 데이터 분포, 품질, vif 측정. (스트리밍 처리 kafka)
+## 데이터 분포, 품질, vif 측정. (스트리밍 처리 kafka) PPT 제작 중
 ### 환경 ubuntu(linux)
 ### openjdk-V-11, hadoop, spark
 ### docker - confluent/kafka-V-7.0.0, kafdrop
