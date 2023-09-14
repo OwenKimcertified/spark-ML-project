@@ -1,5 +1,3 @@
-# 업데이트 중
-
 ## 데이터 분포, 품질, vif 측정. (스트리밍 처리 kafka)
 ### 환경 ubuntu(linux)
 ### openjdk-V-11, hadoop, spark
