@@ -7,6 +7,8 @@
 # setting
 - ubuntu 22.04 LTS
 
+- openjdk 11
+
 - Hadoop 3.3.4
 
 - spark 3.3.3
