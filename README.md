@@ -1,10 +1,18 @@
-## 데이터 분포, 품질, vif 측정. (스트리밍 처리 kafka) PPT 제작 중
-### 환경 ubuntu(linux)
-### openjdk-V-11, hadoop, spark
-### docker - confluent/kafka-V-7.0.0, kafdrop
-### EDA 는 ad-hoc 쿼리로 진행
+# SPARK - ML FEATURE - TARGET Corelations
 ![스크린샷 2023-09-15 07-11-01](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/45b8d27a-9d37-45c3-bd89-84989433cadf)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/666d697a-8b02-454e-ad5f-50b7cd0e1965)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/be2ef94d-6bb6-491d-ab7f-dd6b36150f46)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/30063ca2-2af4-49f1-8d28-6bb879c23d4b)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bebcd813-a7b3-4d99-902d-7aae2a8512da)
 
+# setting
+- ubuntu 22.04 LTS
+
+- Hadoop 3.3.4
+
+- spark 3.3.3
+
+- docker - zookeeper3.7, kafdrop(obsidian_dynamics), kafka7.0
 # spark - ml 을 사용한 이유와 회고
 
 spark -ml 을 사용한 이유는 hdfs 에 저장되는 파일들은 높은 확률로 대용량 데이터이고 
