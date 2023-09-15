@@ -1,20 +1,5 @@
 # SPARK - ML - PROJECT : FEATURE - TARGET Corelations 
 
-# PPT
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/666d697a-8b02-454e-ad5f-50b7cd0e1965)
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bc26db0f-94d7-4462-8bbf-799babc53e63)
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/30063ca2-2af4-49f1-8d28-6bb879c23d4b)
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bebcd813-a7b3-4d99-902d-7aae2a8512da)
-# setting
-- ubuntu 22.04 LTS
-
-- openjdk 11
-
-- Hadoop 3.3.4
-
-- spark 3.3.3
-
-- docker - zookeeper3.7, kafdrop(obsidian_dynamics), kafka7.0
 # 프로젝트 회고
 처음 시작은 TLC TRIP DATA 를 가지고 데이터 분석 공부에 초점을 두고 
 
@@ -47,3 +32,18 @@ hdfs 에 데이터를 저장할 때부터 큰 데이터를 작은 블록에 담�
 로컬 환경, 단일 클러스터에서 인스턴스를 조절하는 방식으로 진행하여 
 
 그 효과가 두드러지지 않았다는 점은 아쉽습니다. 
+# PPT
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/666d697a-8b02-454e-ad5f-50b7cd0e1965)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bc26db0f-94d7-4462-8bbf-799babc53e63)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/30063ca2-2af4-49f1-8d28-6bb879c23d4b)
+![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bebcd813-a7b3-4d99-902d-7aae2a8512da)
+# setting
+- ubuntu 22.04 LTS
+
+- openjdk 11
+
+- Hadoop 3.3.4
+
+- spark 3.3.3
+
+- docker - zookeeper3.7, kafdrop(obsidian_dynamics), kafka7.0
