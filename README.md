@@ -33,7 +33,6 @@ hdfs 에 데이터를 저장할 때부터 큰 데이터를 작은 블록에 담�
 
 그 효과가 두드러지지 않았다는 점은 아쉽습니다. 
 # PPT
-![슬라이드1](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/370b6815-37ac-426b-9ee9-6e0459075836)
 ![슬라이드2](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/42ceb696-c7e9-4c09-b39f-e95a4203b8ec)
 ![슬라이드3](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/4ca8c99c-c35b-418f-9591-f296290b0a95)
 ![슬라이드4](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/92952b1d-5c24-4e7b-978d-6d23ae4d68a4)
