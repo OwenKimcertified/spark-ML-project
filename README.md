@@ -33,10 +33,12 @@ hdfs 에 데이터를 저장할 때부터 큰 데이터를 작은 블록에 담�
 
 그 효과가 두드러지지 않았다는 점은 아쉽습니다. 
 # PPT
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/666d697a-8b02-454e-ad5f-50b7cd0e1965)
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bc26db0f-94d7-4462-8bbf-799babc53e63)
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/30063ca2-2af4-49f1-8d28-6bb879c23d4b)
-![image](https://github.com/OwenKimcertified/spark-ML-toy/assets/99598620/bebcd813-a7b3-4d99-902d-7aae2a8512da)
+![슬라이드1](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/370b6815-37ac-426b-9ee9-6e0459075836)
+![슬라이드2](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/42ceb696-c7e9-4c09-b39f-e95a4203b8ec)
+![슬라이드3](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/4ca8c99c-c35b-418f-9591-f296290b0a95)
+![슬라이드4](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/92952b1d-5c24-4e7b-978d-6d23ae4d68a4)
+![슬라이드5](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/668b5515-d4de-400b-9210-0a54f271d749)
+
 # setting
 - ubuntu 22.04 LTS
 
