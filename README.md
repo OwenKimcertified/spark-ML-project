@@ -41,7 +41,7 @@ hdfs 에 데이터를 저장할 때부터 큰 데이터를 작은 블록에 담�
 # setting
 - ubuntu 22.04 LTS
 
-- openjdk 11
+- openjdk 8
 
 - Hadoop 3.3.4
 
