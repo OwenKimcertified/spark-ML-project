@@ -1,5 +1,7 @@
 # SPARK - ML - PROJECT : FEATURE - TARGET Corelations 
 
+# 정비 중
+
 # 프로젝트 회고
 처음 시작은 TLC TRIP DATA 를 가지고 데이터 분석 공부에 초점을 두고 
 
