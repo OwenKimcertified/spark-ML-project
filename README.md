@@ -4,10 +4,12 @@
 
   DATA : TLC TRIP Yellow taxi DATA 2021 01 - 07, Lookup_zone data 
 
-```python
-main question
+Main Question
+
 코로나 팬데믹 상황에서 운행하는 택시의 수를 늘려도 되는가?
-```
+
+Sub Question
+
 만약 이용자 수가 지속적으로 증가한다면 ?
 
 운행하는 택시의 수를 조금씩 늘려 매출을 올릴 수 있을 것.
