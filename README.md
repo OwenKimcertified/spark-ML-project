@@ -22,12 +22,12 @@ Sub Question
 
 target 값에 영향을 주는 feature 를 선택하고 Spark 의 ML 을 활용하여 상관 관계를 따져봄.
 
+위의 결과들을 바탕으로 결과를 도출.
+
 __추가 자료 링크__
 [링크](https://m.blog.naver.com/sharonpp/140189100144)
 
 ㄴ 출처 여행을 떠나볼까요, 아이리스 블로거님.
-
-위의 결과들을 바탕으로 결과를 도출.
 # PPT
 ![슬라이드1](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/88791141-da84-48fa-9e17-42b72e599daa)
 ![슬라이드2](https://github.com/OwenKimcertified/spark-ML-project/assets/99598620/f70e984e-f6c2-47ba-8f13-1c374b06f619)
